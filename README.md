@@ -1,1 +1,0 @@
-# microsoft-developer-impl-dynamic-programming
